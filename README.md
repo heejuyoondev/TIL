@@ -9,4 +9,4 @@ This is my first TIL
 뭔가 더해본다
 
 
-[230130](https://github.com/heejuyoondev/TIL/blob/main/2023/230130.md)
+[2023 TIL]
